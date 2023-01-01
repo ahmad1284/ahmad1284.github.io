@@ -3,7 +3,7 @@
   command = "npm start"
   
 [build]
-  command = "eleventy"
+  command = "npm run build"
   functions = "netlify/functions"
   publish = "_site"
 
