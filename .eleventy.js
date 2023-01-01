@@ -4,7 +4,7 @@ module.exports = function (eleventyConfig){
 
     // input and output
     return {
-        dir: { input: 'src', output: 'dist'},
+        dir: { input: 'src', output: 'docs'},
         dataTemplateEngine: 'njk',
         markdownTemplateEngine: 'njk'
     };
