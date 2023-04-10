@@ -1,5 +1,10 @@
-# Welcome to the blog
+# Welcome
 
-This is the old blog imported here.
+This is my personal blog
 
-It was initially at https://ahmad1284.github.io/ahmad
+
+# Running it
+
+1. Clone / Download it
+2. Run `npm install`
+3. Run `npm start`
